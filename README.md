@@ -40,7 +40,8 @@ The project focuses on developing essential digital skills required in today’s
 ### 🔹 Task 2 – Student Digital Portfolio
 - GitHub – For project hosting  
 - LinkedIn – For professional networking  
-- Kaggle – For learning AI/ML  
+- Kaggle – For learning AI/ML
+- screenshots are available in task-2-portfolio/ .
 
 ---
 
@@ -50,14 +51,18 @@ The project focuses on developing essential digital skills required in today’s
 
 **Part B:**
 - Created a Google Form Quiz  
-- Linked responses to Google Sheets  
+- Linked responses to Google Sheets
+- Screenshots and proof are available in task-3-platforms/ .
 
 ---
 
 ### 🔹 Task 4 – Email Etiquette
 - Email to professor (deadline extension)  
 - Email for internship application  
-- Social media do’s & don’ts checklist  
+- Social media do’s & don’ts checklist
+### 👉 Google Form Link:
+https://forms.gle/efsUpZJ3ybkhVnHfA
+github Profile Link:
 
 ---
 
@@ -66,7 +71,8 @@ The project focuses on developing essential digital skills required in today’s
 - Includes:
   - Real-life scenario  
   - Fraud explanation  
-  - Prevention checklist  
+  - Prevention checklist
+  - Files are available in task-5-cybercrime/ .
 
 ---
 
