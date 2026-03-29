@@ -62,7 +62,8 @@ The project focuses on developing essential digital skills required in today’s
 - Social media do’s & don’ts checklist
 ### 👉 Google Form Link:
 https://forms.gle/efsUpZJ3ybkhVnHfA
-github Profile Link:
+- github Profile Link:
+https://github.com/utkrishtsingh88-bit
 
 ---
 
